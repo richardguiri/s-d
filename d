@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1,group-title="Vaya Familia Claus (2022)6.0"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM1YWM1NTUtYzdmYi00NjY2LWI2MGUtNmUzZGNkMDY0Mzk2XkEyXkFqcGdeQXVyMDk4OTMzOA@@._V1_FMjpg_UX1000_.jpg",Vaya Familia Claus 1x01
+acestream://b1b1ffbe84879f84e57633da91666348156d1c36
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM1YWM1NTUtYzdmYi00NjY2LWI2MGUtNmUzZGNkMDY0Mzk2XkEyXkFqcGdeQXVyMDk4OTMzOA@@._V1_FMjpg_UX1000_.jpg",Vaya Familia Claus 1x02
+acestream://1355fcb56e0a17ef58cc1c2db5309494c8dc4319
 #EXTINF:-1,group-title="Los Simpson(1989)8.7"
 #EXTINF:-1,tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EDFABC513AEE56D3732B28E3083DF9145A3BFEE1FE1FEB98A78A977CC2DBF014/scale?width=506&aspectRatio=2.00&format=jpeg",group-title="Los Simpson(1989)8.7",Los Simpson T2completa
 acestream://a984993217a57f787bc4774ac438fd9394b3e273
@@ -1097,3 +1102,473 @@ acestream://0f23dfbebf3309ec42c51e3d1c09943b06e7898d
 acestream://ac6d93443d92d7931d9d6204a8f354c690e3259d
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzEzZDVkZDUtY2ZkMS00NzcwLTkwMjEtZGYxZjU1Y2IxNGMwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Stargirl 3x11
 acestream://ad4da39a04a97b55491bb32b748bcce7a6a3a645
+#EXTINF:-1,group-title="Ultrasecretos (2021)7.6"
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/Ff7pM5XXEA4PN4C?format=jpg&name=900x900",group-title="Ultrasecretos (2021)7.6",Ultrasecretos 1x01 al 05
+acestream://514fd00d821531ac66473c636206d51aa83b3216
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/Ff7pM5XXEA4PN4C?format=jpg&name=900x900",group-title="Ultrasecretos (2021)7.6",Ultrasecretos 1x06 al 10
+acestream://3d6af2f823b1f63bc51fcf970616cc8aedb110c2
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/Ff7pM5XXEA4PN4C?format=jpg&name=900x900",group-title="Ultrasecretos (2021)7.6",Ultrasecretos 2x01
+acestream://f5f110ff7f1284a8ad5028bbf61ba163b859a82f
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/Ff7pM5XXEA4PN4C?format=jpg&name=900x900",group-title="Ultrasecretos (2021)7.6",Ultrasecretos 2x02
+acestream://f8522f38bbe9442aa0f430b49ab8db523c50a959
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/Ff7pM5XXEA4PN4C?format=jpg&name=900x900",group-title="Ultrasecretos (2021)7.6",Ultrasecretos 2x03
+acestream://a0ca0251b418066df024d3c574d332c2205ad07b
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/Ff7pM5XXEA4PN4C?format=jpg&name=900x900",group-title="Ultrasecretos (2021)7.6",Ultrasecretos 2x04
+acestream://6726b194b33c7a65a1cd9931034be55633d03e0f
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/Ff7pM5XXEA4PN4C?format=jpg&name=900x900",group-title="Ultrasecretos (2021)7.6",Ultrasecretos 2x05
+acestream://9ba151665f922c420634b47f898232fdf2aa47fb
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/Ff7pM5XXEA4PN4C?format=jpg&name=900x900",group-title="Ultrasecretos (2021)7.6",Ultrasecretos 2x06
+acestream://edcde0ae7bf8109aa4e0a25393a4d53dae03ab73
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/Ff7pM5XXEA4PN4C?format=jpg&name=900x900",group-title="Ultrasecretos (2021)7.6",Ultrasecretos 2x07
+acestream://14065bf2206f6c2633d3a645611cb99a657a73f9
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/Ff7pM5XXEA4PN4C?format=jpg&name=900x900",group-title="Ultrasecretos (2021)7.6",Ultrasecretos 2x08
+acestream://b2660379acc70fbdd9990f19906498b60762fa38
+#EXTINF:-1,group-title="Somos los mejores una nueva era (2021)7.4"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 1x01
+acestream://5c76af55a947e6236225c27cfb83d18b7d403c63
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 1x02
+acestream://6d7ea526a7b48ea9c0c37f741099524ae9edcac3
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 1x03
+acestream://6d7ea526a7b48ea9c0c37f741099524ae9edcac3
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 1x04
+acestream://d1496b1abfabe35267aaa879972a6fdb745ad159
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 1x05
+acestream://1edb7196fb38e2a8e98dc60a82a04ed92f2bdf0e
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 1x06
+acestream://1eb8c56c0bfdb046a586cf0b7ab041e95dc484ed
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 1x07
+acestream://351778467fe96fb9b3c4fcd05b9d291e30035335
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 1x08
+acestream://d27051ac34e76a5600b8e16b75a51f72930c248a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 1x09
+acestream://711ac8406b049f9a0f81f6c61eb1b70f314498d2
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 1x10
+acestream://ecb838c7b2aeb9823e8ddebfc832f64a63ca2f40
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 2x01
+acestream://4143fb7c9f5bdb82fa5dffc10aa34f52547ad662
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 2x02
+acestream://15a89e24ac6d67338953b86b76048349a93c8532
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 2x03
+acestream://1d77e3e86d032fb110d748b611d8d73136003668
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 2x04
+acestream://3318cc1c134563dd7206340f02dda9b4687518d4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 2x05
+acestream://88d9e5126ecf08b0eabc791c6895d39ae5c92146
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 2x06
+acestream://8a49df57e1f0fa35741e1a92634923488607f164
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 2x07
+acestream://0beaab873ca0363b846f6a6d4c2f14f12f4523aa
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 2x08
+acestream://80349a0c5bcc5839e41cd07253a09dfe7c079d60
+#EXTINF:-1,group-title="She-Hulk Abogada Hulka (2022)5.5"
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/JECi-UCsSBQgBIVG0rgsFEesul5eKFMSv-V4oxL1zSkAFsc8eanrSODUO_ufTE3aLWsdiHRhX5CCo2tFT3r2wmQHgzGJ0LyoBO2SeUM_eonQuCfrIbkqjsZWAFZA0qDSJUWU-hhbkVU=w2400",group-title="She-Hulk Abogada Hulka (2022)5.5",She-Hulk 1x01
+acestream://77c5bbf27ab096fdd32494400b64dd3f4ef8a703
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/JECi-UCsSBQgBIVG0rgsFEesul5eKFMSv-V4oxL1zSkAFsc8eanrSODUO_ufTE3aLWsdiHRhX5CCo2tFT3r2wmQHgzGJ0LyoBO2SeUM_eonQuCfrIbkqjsZWAFZA0qDSJUWU-hhbkVU=w2400",group-title="She-Hulk Abogada Hulka (2022)5.5",She-Hulk 1x02
+acestream://c8750a7f7fa5068c59a6e566be099f0ebcbabae6
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/JECi-UCsSBQgBIVG0rgsFEesul5eKFMSv-V4oxL1zSkAFsc8eanrSODUO_ufTE3aLWsdiHRhX5CCo2tFT3r2wmQHgzGJ0LyoBO2SeUM_eonQuCfrIbkqjsZWAFZA0qDSJUWU-hhbkVU=w2400",group-title="She-Hulk Abogada Hulka (2022)5.5",She-Hulk 1x03
+acestream://446de2e56a5cf0891b6085604312bf6d5a98bb65
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/JECi-UCsSBQgBIVG0rgsFEesul5eKFMSv-V4oxL1zSkAFsc8eanrSODUO_ufTE3aLWsdiHRhX5CCo2tFT3r2wmQHgzGJ0LyoBO2SeUM_eonQuCfrIbkqjsZWAFZA0qDSJUWU-hhbkVU=w2400",group-title="She-Hulk Abogada Hulka (2022)5.5",She-Hulk 1x04
+acestream://554e925c7332285fbf7f8d18243c7fe5d1134567
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/JECi-UCsSBQgBIVG0rgsFEesul5eKFMSv-V4oxL1zSkAFsc8eanrSODUO_ufTE3aLWsdiHRhX5CCo2tFT3r2wmQHgzGJ0LyoBO2SeUM_eonQuCfrIbkqjsZWAFZA0qDSJUWU-hhbkVU=w2400",group-title="She-Hulk Abogada Hulka (2022)5.5",She-Hulk 1x05
+acestream://83ab23efd93b3e31666fedc6a2e9dfd0cdc6311e
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/JECi-UCsSBQgBIVG0rgsFEesul5eKFMSv-V4oxL1zSkAFsc8eanrSODUO_ufTE3aLWsdiHRhX5CCo2tFT3r2wmQHgzGJ0LyoBO2SeUM_eonQuCfrIbkqjsZWAFZA0qDSJUWU-hhbkVU=w2400",group-title="She-Hulk Abogada Hulka (2022)5.5",She-Hulk 1x06
+acestream://8350ed7b7ff9109bba273ff5170c4a9d36838c8c
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/JECi-UCsSBQgBIVG0rgsFEesul5eKFMSv-V4oxL1zSkAFsc8eanrSODUO_ufTE3aLWsdiHRhX5CCo2tFT3r2wmQHgzGJ0LyoBO2SeUM_eonQuCfrIbkqjsZWAFZA0qDSJUWU-hhbkVU=w2400",group-title="She-Hulk Abogada Hulka (2022)5.5",She-Hulk 1x07
+acestream://e5c9bd67f6b6ebe24f40ea4fc644acbbacd648eb
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/JECi-UCsSBQgBIVG0rgsFEesul5eKFMSv-V4oxL1zSkAFsc8eanrSODUO_ufTE3aLWsdiHRhX5CCo2tFT3r2wmQHgzGJ0LyoBO2SeUM_eonQuCfrIbkqjsZWAFZA0qDSJUWU-hhbkVU=w2400",group-title="She-Hulk Abogada Hulka (2022)5.5",She-Hulk 1x08
+acestream://f076ac980607852f2df70e1d7bdbf145264b70a8
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/JECi-UCsSBQgBIVG0rgsFEesul5eKFMSv-V4oxL1zSkAFsc8eanrSODUO_ufTE3aLWsdiHRhX5CCo2tFT3r2wmQHgzGJ0LyoBO2SeUM_eonQuCfrIbkqjsZWAFZA0qDSJUWU-hhbkVU=w2400",group-title="She-Hulk Abogada Hulka (2022)5.5",She-Hulk 1x09
+acestream://a439c792ec8686a5172e26e4de27f4971ab20f4e
+#EXTINF:-1,group-title="Por Mandato Del Cielo(2022)7.5"
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/13/17/06/4984745.jpg",group-title="Por Mandato Del Cielo(2022)7.5",Por Mandato Del Cielo 1x01
+acestream://3109a73f432ba695881d9d913cb0c4088b560b48
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/13/17/06/4984745.jpg",group-title="Por Mandato Del Cielo(2022)7.5",Por Mandato Del Cielo 1x02
+acestream://07d0337d7e8f9e18becdc1b7ca3358268a771bb4
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/13/17/06/4984745.jpg",group-title="Por Mandato Del Cielo(2022)7.5",Por Mandato Del Cielo 1x03
+acestream://5acc9fa55bd35e8885f014426e497c99305f9a34
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/13/17/06/4984745.jpg",group-title="Por Mandato Del Cielo(2022)7.5",Por Mandato Del Cielo 1x04
+acestream://9c64448a3959604723b8bb1753f1cb8ec23c83eb
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/13/17/06/4984745.jpg",group-title="Por Mandato Del Cielo(2022)7.5",Por Mandato Del Cielo 1x05
+acestream://103a511c25c966c055952f2e23b517968e33fe76
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/13/17/06/4984745.jpg",group-title="Por Mandato Del Cielo(2022)7.5",Por Mandato Del Cielo 1x06
+acestream://b4eb083c6dc58a86df1957ae58a373b2340f4d45
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/13/17/06/4984745.jpg",group-title="Por Mandato Del Cielo(2022)7.5",Por Mandato Del Cielo 1x07
+acestream://b2fb1c2eab67f49d7acc9e581c9bfa2d2c2f5a01
+#EXTINF:-1,group-title="Solo asesinatos en el edificio(2022)8.1"
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x01 
+acestream://
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x02 
+acestream://
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x03 
+acestream://af4b9b8eda29b7cf924607617bf79c57cd72309c 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x04 
+acestream://2fe11f5ef793f8235032b858fd34807aee7084cd
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x05 
+acestream://b9025db9c9b1d3b640dc89afaaa352014e0d229b
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x06 
+acestream://4a2dda73cadfd00b13de641731ba1946f0ead336 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x07 
+acestream://f6719739a3586f41efbdb111423d647ea08d793c
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x08 
+acestream://47149f2b958d670bed88fb95f1d3b9c918db39a0
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x09 
+acestream://633af55c6e47b261b14a9938d9124afd21a4ca34
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x10 
+acestream://ce58b5474eb14e8c9681e9c031c24a6ee7880154
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X01 
+acestream://142dc25f6ce92deb08f639ce6ad8d07d13c84889
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X02 
+acestream://4811728495707ab38f7ef3b0764085c92688c384
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X03 
+acestream://2ffa3ac5302a1a6a36eefcc9673a109db6a644c8
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X04 
+acestream://10ac661968a9d61212539f5841e90d355e3c2749
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X05 
+acestream://4d3a9f05ccfb97b58abab6f1e4228f51afd85ec6
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X06 
+acestream://8068c582b6285add2ab7e14f280df787b72ed8d8
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X07 
+acestream://38e0a54e57f82b9083fe9c17c7651991552417ac
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X08
+acestream://1c4a63d36d8a3bb839336de6f312ef1cea6b1065
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X09 
+acestream://57ac534943192e1206d4608b4716a732ee2584a9 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X10 
+acestream://17def835dec9ab917800435a32ad2dea95490ebc
+#EXTINF:-1,group-title="Ms. Marvel(2022)6.1"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ3OTZkNDUtNTU0Mi00ZjE4LTgyNTUtY2E4NWRmNDUxMzkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",group-title="Ms. Marvel(2022)6.1",Ms. Marvel1X01 
+acestream://028f4683e1fad48776c727bb380a5fb54e9f39fb
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ3OTZkNDUtNTU0Mi00ZjE4LTgyNTUtY2E4NWRmNDUxMzkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",group-title="Ms. Marvel(2022)6.1",Ms. Marvel1X02 
+acestream://804451221b2e84c497897bee1a5f297b9e6a96e5
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ3OTZkNDUtNTU0Mi00ZjE4LTgyNTUtY2E4NWRmNDUxMzkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",group-title="Ms. Marvel(2022)6.1",Ms. Marvel1X03 
+acestream://6036e642481361dbd1d2300302df0ce267482878
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ3OTZkNDUtNTU0Mi00ZjE4LTgyNTUtY2E4NWRmNDUxMzkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",group-title="Ms. Marvel(2022)6.1",Ms. Marvel1X04 
+acestream://34e6e1e97c015d647a088557b31b6a83328ad342
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ3OTZkNDUtNTU0Mi00ZjE4LTgyNTUtY2E4NWRmNDUxMzkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",group-title="Ms. Marvel(2022)6.1",Ms. Marvel1X05 
+acestream://d0b756d2a672c9ff2d69dbf3b1e0f3b2ae4bf920
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ3OTZkNDUtNTU0Mi00ZjE4LTgyNTUtY2E4NWRmNDUxMzkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",group-title="Ms. Marvel(2022)6.1",Ms. Marvel1X06 
+acestream://330ca38f7a533e23a6c36967bca986c7203399d0
+#EXTINF:-1,group-title="Obi-Wan Kenobi(2022)[8.8]"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X01 
+acestream://a25326fe3dcd88993e91dfa6bcd003ea8dfc855b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X02 
+acestream://17661bea94a478ff4b5157699fdb08abe962fa7a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X03 
+acestream://821bc50e3922fa67a1bccc377d4131656ec6647d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X04 
+acestream://9f26610a6357e202efda8da40bd44167dadb6eba
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X05 
+acestream://8e720c2fe228ea3e63364e8c00a2feef894314b6
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X06 
+acestream://62efa07a994cb41f23108b4ee9c064c1292b765b
+#EXTINF:-1,group-title="The Quest(2022)[6.8]"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMmEwOThkOTEtODU0Mi00MmRkLWJhMDctMzM0NTE0MThhZjUxXkEyXkFqcGdeQXVyNDY2NDU1MzA@._V1_UY1200_CR165,0,630,1200_AL_.jpg",group-title="The Quest(2022)[6.8]",The Quest1X01 
+acestream://98e864d0edfc234d74eda624b438f64499caae11
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMmEwOThkOTEtODU0Mi00MmRkLWJhMDctMzM0NTE0MThhZjUxXkEyXkFqcGdeQXVyNDY2NDU1MzA@._V1_UY1200_CR165,0,630,1200_AL_.jpg",group-title="The Quest(2022)[6.8]",The Quest1X02 
+acestream://9e29823ad11eac9c308205a69811163e02411a8e
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMmEwOThkOTEtODU0Mi00MmRkLWJhMDctMzM0NTE0MThhZjUxXkEyXkFqcGdeQXVyNDY2NDU1MzA@._V1_UY1200_CR165,0,630,1200_AL_.jpg",group-title="The Quest(2022)[6.8]",The Quest1X03 
+acestream://40c977838d9690591fd56e0e73ec0584efd7916a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMmEwOThkOTEtODU0Mi00MmRkLWJhMDctMzM0NTE0MThhZjUxXkEyXkFqcGdeQXVyNDY2NDU1MzA@._V1_UY1200_CR165,0,630,1200_AL_.jpg",group-title="The Quest(2022)[6.8]",The Quest1X04 
+acestream://5e3b77773dbfda2bc116ebf0086a141fb10d743e
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMmEwOThkOTEtODU0Mi00MmRkLWJhMDctMzM0NTE0MThhZjUxXkEyXkFqcGdeQXVyNDY2NDU1MzA@._V1_UY1200_CR165,0,630,1200_AL_.jpg",group-title="The Quest(2022)[6.8]",The Quest1X05 
+acestream://a4a43e20e958e8ac860e6cb4600710fb1d8ffe5a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMmEwOThkOTEtODU0Mi00MmRkLWJhMDctMzM0NTE0MThhZjUxXkEyXkFqcGdeQXVyNDY2NDU1MzA@._V1_UY1200_CR165,0,630,1200_AL_.jpg",group-title="The Quest(2022)[6.8]",The Quest1X06 
+acestream://9782ab9ec223228532b882b0b332ac78eb24f69f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMmEwOThkOTEtODU0Mi00MmRkLWJhMDctMzM0NTE0MThhZjUxXkEyXkFqcGdeQXVyNDY2NDU1MzA@._V1_UY1200_CR165,0,630,1200_AL_.jpg",group-title="The Quest(2022)[6.8]",The Quest1X07 
+acestream://a26e9188fe651f365adacd17be035a5b942d7af3
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMmEwOThkOTEtODU0Mi00MmRkLWJhMDctMzM0NTE0MThhZjUxXkEyXkFqcGdeQXVyNDY2NDU1MzA@._V1_UY1200_CR165,0,630,1200_AL_.jpg",group-title="The Quest(2022)[6.8]",The Quest1X08 
+acestream://e1efba2982a5ed1d65b8341be683d5402bc69618
+#EXTINF:-1,group-title="Caballero Luna(2022)"
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/39/5697280.jpg"group-title="Caballero Luna(2022)",Caballero 1X01 
+acestream://252b8131b515e6ef03b72e350259bff9c17aee2d
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/39/5697280.jpg"group-title="Caballero Luna(2022)",Caballero 1X02 
+acestream://a082fe769d2f914aa4f1c0d94c20bba4d491b1e9
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/39/5697280.jpg"group-title="Caballero Luna(2022)",Caballero 1X03 
+acestream://d97f7e129f2daac23bd2a0e30ac549bff24284c2
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/39/5697280.jpg"group-title="Caballero Luna(2022)",Caballero 1X04 
+acestream://3cdfe7788decd15ff68c4dd5f827f3ca54ef8dbd
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/39/5697280.jpg"group-title="Caballero Luna(2022)",Caballero 1X05 
+acestream://ffd5c9da17b7eb04467465f0fb6836d7e49d4f8c
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/39/5697280.jpg"group-title="Caballero Luna(2022)",Caballero 1X06 
+acestream://d26e52b585f3382e50d24a406bcfafdd0e00ccbe
+#EXTINF:-1,group-title="El libro de Boba Fett(2021)"
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/02/09/22/1915017.jpg"group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X01 
+acestream://653c0afb36f5d1b30268e590695c72e0c26e866d
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/02/09/22/1915017.jpg"group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X02 
+acestream://3e74e3f9c652b7a6069aac44a84ffb0d11025128
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/02/09/22/1915017.jpg"group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X03 
+acestream://284ac2d7a3b43870c2cb3b3f2868d05118c8da7c
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/02/09/22/1915017.jpg"group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X04 
+acestream://60162c73ec0f2e39c99b55d1dd9913e6c7800564
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/02/09/22/1915017.jpg"group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X05 
+acestream://ee5334aae4e0d755aa20c17b392bdd6c82211080
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/02/09/22/1915017.jpg"group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X06 
+acestream://876310ea14ff2755f5085aae54358f3f0bece2a7
+#EXTINF:-1,group-title="The Cape(2011)"
+#EXTINF:-1,tvg-logo="https://www.cine.com/media/series/1440.jpg"group-title="The Cape(2011)",The Cape(2011) 1X01 
+acestream://0f52e7ef2b7c6343ba7a883d4f567f06db0d6f09
+#EXTINF:-1,tvg-logo="https://www.cine.com/media/series/1440.jpg"group-title="The Cape(2011)",The Cape(2011) 1X02 
+acestream://0f52e7ef2b7c6343ba7a883d4f567f06db0d6f09
+#EXTINF:-1,tvg-logo="https://www.cine.com/media/series/1440.jpg"group-title="The Cape(2011)",The Cape(2011) 1X03 
+acestream://2bbd0082a8c2cfbc5cd6cd3ed53b5268e0826bbc 
+#EXTINF:-1,tvg-logo="https://www.cine.com/media/series/1440.jpg"group-title="The Cape(2011)",The Cape(2011) 1X04 
+acestream://2bbd0082a8c2cfbc5cd6cd3ed53b5268e0826bbc
+#EXTINF:-1,tvg-logo="https://www.cine.com/media/series/1440.jpg"group-title="The Cape(2011)",The Cape(2011) 1X05 
+acestream://63c2d7a3356b5da73c092727252a2d1783cffdd6
+#EXTINF:-1,tvg-logo="https://www.cine.com/media/series/1440.jpg"group-title="The Cape(2011)",The Cape(2011) 1X06 
+acestream://63c2d7a3356b5da73c092727252a2d1783cffdd6
+#EXTINF:-1,tvg-logo="https://www.cine.com/media/series/1440.jpg"group-title="The Cape(2011)",The Cape(2011) 1X07 
+acestream://1411404f0eeae1ed88ce36e15927ddbfe85bfd6c
+#EXTINF:-1,tvg-logo="https://www.cine.com/media/series/1440.jpg"group-title="The Cape(2011)",The Cape(2011) 1X08 
+acestream://1411404f0eeae1ed88ce36e15927ddbfe85bfd6c
+#EXTINF:-1,tvg-logo="https://www.cine.com/media/series/1440.jpg"group-title="The Cape(2011)",The Cape(2011) 1X09 
+acestream://985ec3856d0b2af3d6f12c1e3574484272c98710
+#EXTINF:-1,tvg-logo="https://www.cine.com/media/series/1440.jpg"group-title="The Cape(2011)",The Cape(2011) 1X10 
+acestream://4f9434498f0548597b3c8ac92a36611db24818b4
+#EXTINF:-1,group-title="Harry Potter: El Torneo de las Casas de Hogwarts(2021)"
+#EXTINF:-1,tvg-logo="https://mx.web.img2.acsta.net/pictures/21/12/31/17/00/3887344.jpg"group-title="Harry Potter: El Torneo de las Casas de Hogwarts(2021)",Harry Potter 1X01 
+acestream://8c09b3e27333524ada3b48877901bd0e424b1bc7
+#EXTINF:-1,tvg-logo="https://mx.web.img2.acsta.net/pictures/21/12/31/17/00/3887344.jpg"group-title="Harry Potter: El Torneo de las Casas de Hogwarts(2021)",Harry Potter 1X02 
+acestream://b4e78deec031eefa6db648def70993582c3e491e
+#EXTINF:-1,tvg-logo="https://mx.web.img2.acsta.net/pictures/21/12/31/17/00/3887344.jpg"group-title="Harry Potter: El Torneo de las Casas de Hogwarts(2021)",Harry Potter 1X03 
+acestream://47d48ff75f70103c7fc665e47adb5b48ad7e94a3
+#EXTINF:-1,tvg-logo="https://mx.web.img2.acsta.net/pictures/21/12/31/17/00/3887344.jpg"group-title="Harry Potter: El Torneo de las Casas de Hogwarts(2021)",Harry Potter 1X04 
+acestream://324182545686b5330da4378578e56a0935e56e58
+#EXTINF:-1,group-title="Arcane(2021)"
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg"group-title="Arcane(2021)",Arcane 1X01 
+acestream://b00ec2d131ae420dda54c98aa2ad1be9f6d3e01b
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg"group-title="Arcane(2021)",Arcane 1X02 
+acestream://b00ec2d131ae420dda54c98aa2ad1be9f6d3e01b
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg"group-title="Arcane(2021)",Arcane 1X03 
+acestream://b00ec2d131ae420dda54c98aa2ad1be9f6d3e01b
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg"group-title="Arcane(2021)",Arcane 1X04 
+acestream://d6d21ddf1119d14ba8951323014e00e6e8b90914
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg"group-title="Arcane(2021)",Arcane 1X05 
+acestream://7b89e8999dacb8d2f48f9423fe57b559f06f267c
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg"group-title="Arcane(2021)",Arcane 1X06 
+acestream://707bdc2ce5a639a85a4f8dcf70550d405025a49a
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg"group-title="Arcane(2021)",Arcane 1X07 
+acestream://1ac9dfac53745c66bf804894558f685de9edde3f
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg"group-title="Arcane(2021)",Arcane 1X08 
+acestream://aab4031283baa548364a1f00548a79c4b587a962
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg"group-title="Arcane(2021)",Arcane 1X09 
+acestream://141d1a1c91a1c10140b55221f4c6ecca08d8a869
+#EXTINF:-1,group-title="Loki T1"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg",group-title="Loki T1",Loki1x01
+acestream://8220f42ef55776851373737bf1a2908505750134
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg",group-title="Loki T1",Loki1x02
+acestream://7aa6286bd1534a44e67320f24ea71be979d29d7d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg",group-title="Loki T1",Loki1x03
+acestream://96cb58ee1c7176c592e8b9cbb2019a97d45efc7f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg",group-title="Loki T1",Loki1x04
+acestream://ad8e0476a6624d72758769078d2d1755fdf54344
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg",group-title="Loki T1",Loki1x05
+acestream://540e25f3fb93fd90c9754df99556d20d22cbfc16
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg",group-title="Loki T1",Loki1x06
+acestream://d83a639867471c16397924771da5c4caddfb0917
+#EXTINF:-1,group-title="Bruja Escarlata y Vision T1"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x01
+acestream://ccc797843327058b08edfa0576a79d2ed23fea7a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x02
+acestream://ccc797843327058b08edfa0576a79d2ed23fea7a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x03
+acestream://a82796d3ffaa3d1df92c7a25dd106dbc3c8a23bc
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x04
+acestream://80b6cd6512b8c0d293433f85dba7400a04c99074
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x05
+acestream://80b6cd6512b8c0d293433f85dba7400a04c99074
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x06
+acestream://29136269aeb5f7cc38256986a808e0e6d8a3f83f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x07
+acestream://83c7578f6848ec36d799b3f79a047c9faf51e72d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x08
+acestream://2c9b7be8a0a435e5383a1f18bff96c876dc5afb8
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x09
+acestream://853aab5058ef10de081d73ed3f345941c2a6c648
+#EXTINF:-1,group-title="The Mandalorian(2019)8.7",
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian1x01
+acestream://e2bce3da48d9e5a0cd32b57a6f846f9d2b399202
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian1x02
+acestream://c2138b2dac8568d609f933e3a9cd5c460131c997
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian1x03
+acestream://beb2ae36af39ac59df8ca097e31767ebfed2e8ea
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian1x04
+acestream://b97ab8c050aa8adb1f2925082b68828a320960e8
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian1x05
+acestream://7e88f637329b12c96d65cd8d85e9615bca6f816f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian1x06
+acestream://3cee2ff16237846c98c83749c0858590825da24b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian1x07
+acestream://fae251109d61899f5e960220229083c420fb702d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian1x08
+acestream://6fc33c54b6bbbd698e979e1edab879218b2a0430
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian2x01
+acestream://2d77f8969ca8820ef21dbb800df217bece680d79
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian2x02
+acestream://949c79ca6675b9bc4d83d84ac19076024a7409aa
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian2x03
+acestream://0b1105a312d3abf821a23fade4f467ae72eb9bf6
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian2x04
+acestream://9a7a06e5e59efaf95665a6d70fde677737df8c3e
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian2x05
+acestream://b62595bc8027666d8e51db692e8f53f58eac48ce
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian2x06
+acestream://83b0e045fa28df7e9424cf847b22478d6163ea84
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian2x07
+acestream://7e64b7a62ac994b700b20bfa1beede3e97a20c65
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian2x08
+acestream://1b2e1b0da1ebccce7f659ac107c84432888cdd43
+#EXTINF:-1,group-title="The Umbrella Academy(2019)7.9"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 1x01
+acestream://f3dccb64485061ec94366c4d175761037950ebe2
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 1x02
+acestream://be9dd74ae1652c4e48b426fee3f6c65dc56dd508
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 1x03
+acestream://be9dd74ae1652c4e48b426fee3f6c65dc56dd508
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 1x04
+acestream://be9dd74ae1652c4e48b426fee3f6c65dc56dd508
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 1x05
+acestream://be9dd74ae1652c4e48b426fee3f6c65dc56dd508
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 1x06
+acestream://b953911a09e663fa764f88bec3f4dbcfce18b31f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 1x07
+acestream://b953911a09e663fa764f88bec3f4dbcfce18b31f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 1x08
+acestream://b953911a09e663fa764f88bec3f4dbcfce18b31f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 1x09
+acestream://b953911a09e663fa764f88bec3f4dbcfce18b31f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 1x10
+acestream://b953911a09e663fa764f88bec3f4dbcfce18b31f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 2x01
+acestream://4d793a443c470780a22299ff2c6441d0a428ee12
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 2x02
+acestream://4d793a443c470780a22299ff2c6441d0a428ee12
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 2x03
+acestream://4d793a443c470780a22299ff2c6441d0a428ee12
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 2x04
+acestream://f256079845ed172cccb4528e8524ff5555151c7b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 2x05
+acestream://f256079845ed172cccb4528e8524ff5555151c7b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 2x06
+acestream://f256079845ed172cccb4528e8524ff5555151c7b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 2x07
+acestream://0bbd77f8155605921fc31978e7dee9d30f46ec44
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 2x08
+acestream://0bbd77f8155605921fc31978e7dee9d30f46ec44
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 2x09
+acestream://0bbd77f8155605921fc31978e7dee9d30f46ec44
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 2x10
+acestream://0bbd77f8155605921fc31978e7dee9d30f46ec44
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 3x01
+acestream://2a1225ef63fdc8b8ee23f443fc26fa4be5cc5c31
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 3x02
+acestream://b076a7edc5ad41ff771326ff9dcc49f8703b358c
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 3x03
+acestream://e609cd9269454359c3620736d1afccf74f7fc271
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 3x04
+acestream://54f1766aba83bc555a550e365cbb22a3bb3b5baf
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 3x05
+acestream://01403b22c964110011ffe31fb86e49aa38280d69
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 3x06
+acestream://7bb710e2dbd0ff3087171f11933b8cd559738e4d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 3x07
+acestream://ab788fa1f2349e587c4d5717434f4b7a935d8b5b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 3x08
+acestream://7cc239072f37ce95d66854685f014fc32a7d7056
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 3x09
+acestream://aaa0d39fb34b54bc6b08a9f25a02af25e2cea5a3
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE2N2JhYjctNDJkNi00ODYzLWIxYTctOTcxM2JkZTg5NDJiXkEyXkFqcGdeQXVyNDM1MDk1NDI@._V1_.jpg",group-title="The Umbrella Academy(2019)7.9",The Umbrella Academy 3x10
+4d370dc52a7240c54e6bb66e06efb5485e8e3599
+#EXTINF:-1,group-title="Los secretos de Sulphur Springs(2021)7.6"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos1X01 
+acestream://46eb34b7ef57ec4cae179025a6b8ea416fea9633
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos1X02 
+acestream://1cbae97145824b012b9c2f4853c399ab156c637e
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos1X03 
+acestream://61b90b9b6b1ea20d00088ebb82f6f0c7ca445ecb
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos1X04 
+acestream://316c00a24270954a93abc9d99c06872f801f3f08
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos1X05 
+acestream://2cc63883dc5336dd4ff797b2e7b98cbdf74a31fc
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos1X06 
+acestream://1c2051a04dd9e209d2ea54522ee1f847fac56657
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos1X07 
+acestream://d77c911b0db4aca38c22a0ba791a1ebb61ae151f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos1X08 
+acestream://50a09121468330c0537050e52f0a5bdd5481e17b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x01 Solo el tiempo dirá
+Acestream://46eb34b7ef57ec4cae179025a6b8ea416fea9633
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x02 No hay tiempo que perder
+Acestream://1cbae97145824b012b9c2f4853c399ab156c637e
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x03 Tiempo muerto
+acestream://9337887af39fba09fa8ea2c8c48c22bef107dcfe
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x04 Lugar y tiempo equivocados
+acestream://9337887af39fba09fa8ea2c8c48c22bef107dcfe
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x05 Justo a tiempo
+acestream://Acestream://9337887af39fba09fa8ea2c8c48c22bef107dcfe
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x06 Se acaba el tiempo
+acestream://1c2051a04dd9e209d2ea54522ee1f847fac56657
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x07 Hora de salida
+acestream://d77c911b0db4aca38c22a0ba791a1ebb61ae151f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x08 El tiempo no está de nuestra parte
+acestream://50a09121468330c0537050e52f0a5bdd5481e17b
+#EXTINF:-1,group-title="Dos veranos(2022)7.0"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ4NzU2MTktMTg3NS00ZGI0LTgxMmYtZmMwYzM0NzA0NTE0XkEyXkFqcGdeQXVyMTM1NDY1ODk2._V1_FMjpg_UX1000_.jpg",group-title="Dos veranos(2022)7.0",Dos veranos1X01 
+acestream://de12037f1f70add06bba0d47b2a4c7f68c8276e3
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ4NzU2MTktMTg3NS00ZGI0LTgxMmYtZmMwYzM0NzA0NTE0XkEyXkFqcGdeQXVyMTM1NDY1ODk2._V1_FMjpg_UX1000_.jpg",group-title="Dos veranos(2022)7.0",Dos veranos1X02 
+acestream://f925f73c06f21dd4d6ff4151b1cd255c9c568476
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ4NzU2MTktMTg3NS00ZGI0LTgxMmYtZmMwYzM0NzA0NTE0XkEyXkFqcGdeQXVyMTM1NDY1ODk2._V1_FMjpg_UX1000_.jpg",group-title="Dos veranos(2022)7.0",Dos veranos1X03 
+acestream://dbf11eca0a6ee7f8ce836c295038ff13370697f1
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ4NzU2MTktMTg3NS00ZGI0LTgxMmYtZmMwYzM0NzA0NTE0XkEyXkFqcGdeQXVyMTM1NDY1ODk2._V1_FMjpg_UX1000_.jpg",group-title="Dos veranos(2022)7.0",Dos veranos1X04 
+acestream://bfce550a57efc83ec6ce18ab2c375e54b3f00567
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ4NzU2MTktMTg3NS00ZGI0LTgxMmYtZmMwYzM0NzA0NTE0XkEyXkFqcGdeQXVyMTM1NDY1ODk2._V1_FMjpg_UX1000_.jpg",group-title="Dos veranos(2022)7.0",Dos veranos1X05 
+acestream://b86fc9446eb1b990ea33966c3a9d3b9c225a74ef
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ4NzU2MTktMTg3NS00ZGI0LTgxMmYtZmMwYzM0NzA0NTE0XkEyXkFqcGdeQXVyMTM1NDY1ODk2._V1_FMjpg_UX1000_.jpg",group-title="Dos veranos(2022)7.0",Dos veranos1X06 
+acestream://736b91cea4f5c7679c68ad02d069ed947f5defd7
+#EXTINF:-1,group-title="Paralelos desconocidos(2022)"
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/03/22/16/01/1339691.jpg"group-title="Paralelos desconocidos(2022)",Paralelos 1X01 
+acestream://70cee8c419eee5fbfacb6ce392ebeb93d437c386
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/03/22/16/01/1339691.jpg"group-title="Paralelos desconocidos(2022)",Paralelos 1X02 
+acestream://e43afc18d15e9de0096f8391f66d1906623f2c88
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/03/22/16/01/1339691.jpg"group-title="Paralelos desconocidos(2022)",Paralelos 1X03 
+acestream://c3bb248b327041602e4d4cb37d74d6160bea5c36
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/03/22/16/01/1339691.jpg"group-title="Paralelos desconocidos(2022)",Paralelos 1X04 
+acestream://f10a7dae4e54ca0e556efda9a78954e4ced1d1df
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/03/22/16/01/1339691.jpg"group-title="Paralelos desconocidos(2022)",Paralelos 1X05 
+acestream://834bef33d1c11c74ac207a437a6c16f3420fd403
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/03/22/16/01/1339691.jpg"group-title="Paralelos desconocidos(2022)",Paralelos 1X06 
+acestream://c7c91a3ca5080a030a92dd977b443f277a61df9d
+#EXTINF:-1,group-title="Ojo de Halcón(2021)"
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/26/09/18/2137099.jpg"group-title="Ojo de Halcón(2021)",Ojo de 1X01 
+acestream://8ba98f8b74dd8584cda922387b12e5389241f5cc
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/26/09/18/2137099.jpg"group-title="Ojo de Halcón(2021)",Ojo de 1X02 
+acestream://56b6a50780784661d6c9587307b74640fa81d40b
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/26/09/18/2137099.jpg"group-title="Ojo de Halcón(2021)",Ojo de 1X03 
+acestream://5d164dbdcd2ed6fcf6768e2a2685bba4ef8a09c4
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/26/09/18/2137099.jpg"group-title="Ojo de Halcón(2021)",Ojo de 1X04 
+acestream://62b45f08047e169cf3e4f7f1587f79d96a36df7f
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/26/09/18/2137099.jpg"group-title="Ojo de Halcón(2021)",Ojo de 1X05 
+acestream://3561f67ca507105e9bdcfdc26c7a817c1ecccbb3
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/26/09/18/2137099.jpg"group-title="Ojo de Halcón(2021)",Ojo de 1X06 
+acestream://4cd48aa94e2ad8e42c201ab7fb7ba9bb826a2ed8
+#EXTINF:-1,group-title="Y: El último hombre(2021)"
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/09/22/12/04/1978616.jpg"group-title="Y: El último hombre(2021)",Y: 1X01 
+acestream://6d053bb9c95110c818d624a79b3bcf3a1847d8eb
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/09/22/12/04/1978616.jpg"group-title="Y: El último hombre(2021)",Y: 1X02 
+acestream://4c0383cfa24aae9188df0721983fe1d064bbae66
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/09/22/12/04/1978616.jpg"group-title="Y: El último hombre(2021)",Y: 1X03 
+acestream://17eca50e0420bc1914f855289665e4080aaf4258
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/09/22/12/04/1978616.jpg"group-title="Y: El último hombre(2021)",Y: 1X04 
+acestream://bc9e8a451d37b2f68479c04d232b99bdca68b3b1
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/09/22/12/04/1978616.jpg"group-title="Y: El último hombre(2021)",Y: 1X05 
+acestream://40f3d5de971ea737a2bb715a86f85966829d43a8
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/09/22/12/04/1978616.jpg"group-title="Y: El último hombre(2021)",Y: 1X06 
+acestream://6e5f548d9b4a03ce8b30891f2240e24e9e667fb0
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/09/22/12/04/1978616.jpg"group-title="Y: El último hombre(2021)",Y: 1X07 
+acestream://f586887d5e166e8e11c405587f7cd573282d6880
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/09/22/12/04/1978616.jpg"group-title="Y: El último hombre(2021)",Y: 1X08 
+acestream://cab3bbf38ee5f6a4eb60554473999c77cb5dc3fc
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/09/22/12/04/1978616.jpg"group-title="Y: El último hombre(2021)",Y: 1X09 
+acestream://133b9754c2b69cdf8bc706c4a821f7fac676ffd6 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/09/22/12/04/1978616.jpg"group-title="Y: El último hombre(2021)",Y: 1X10 
+acestream://3d5c4f9e12624b6234cc643c57d43d72392034d4
