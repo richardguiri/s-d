@@ -1030,6 +1030,8 @@ acestream://f12d91c62fafc9c3b7f214be179f11c04f715a12
 acestream://b45f4a66764c87ed2e7eb70ac56b5a532c3efb82
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDgxNTIyZTMtMzYxNi00NmRjLWFiMTEtM2U4MTFmODkzNzM1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="SW Andor (2022)8.2",SW Andor 1x11
 acestream://1611f0fd23667642de818f8366a2659ee5165a11
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDgxNTIyZTMtMzYxNi00NmRjLWFiMTEtM2U4MTFmODkzNzM1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="SW Andor (2022)8.2",SW Andor 1x12
+acestream://c261a5e15a99afa83c751a6f2dceffa0052ccbb1
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzEzZDVkZDUtY2ZkMS00NzcwLTkwMjEtZGYxZjU1Y2IxNGMwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Stargirl 1x01
 acestream://71ee66d85624d0f5aea3bd7e0b2b2fce29abab67
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzEzZDVkZDUtY2ZkMS00NzcwLTkwMjEtZGYxZjU1Y2IxNGMwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Stargirl 1x02
