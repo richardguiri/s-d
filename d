@@ -4,6 +4,8 @@
 acestream://b1b1ffbe84879f84e57633da91666348156d1c36
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM1YWM1NTUtYzdmYi00NjY2LWI2MGUtNmUzZGNkMDY0Mzk2XkEyXkFqcGdeQXVyMDk4OTMzOA@@._V1_FMjpg_UX1000_.jpg",Vaya Familia Claus 1x02
 acestream://1355fcb56e0a17ef58cc1c2db5309494c8dc4319
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM1YWM1NTUtYzdmYi00NjY2LWI2MGUtNmUzZGNkMDY0Mzk2XkEyXkFqcGdeQXVyMDk4OTMzOA@@._V1_FMjpg_UX1000_.jpg",Vaya Familia Claus 1x03
+acestream://c1b9e58c7fb3cfbc88a37499d4615bc19062319e
 #EXTINF:-1,group-title="Los Simpson(1989)8.7"
 #EXTINF:-1,tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EDFABC513AEE56D3732B28E3083DF9145A3BFEE1FE1FEB98A78A977CC2DBF014/scale?width=506&aspectRatio=2.00&format=jpeg",group-title="Los Simpson(1989)8.7",Los Simpson T2completa
 acestream://a984993217a57f787bc4774ac438fd9394b3e273
@@ -953,6 +955,8 @@ acestream://887a879140427f1f272564aadf44997fefe4c00e
 acestream://48230159a2c274687b4e4a976583a8cca60fa62e
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFjY2U3ZjQtY2MzZC00MzExLWFhYjYtZWE3YmFmNGJhZTg4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",group-title="La Misteriosa Sociedad Benedict (2021)7.6",La Misteriosa Sociedad Benedict 2x05
 acestream://0cbb54c6ac5314c84229b770a9fb591bf3e09b62
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFjY2U3ZjQtY2MzZC00MzExLWFhYjYtZWE3YmFmNGJhZTg4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",group-title="La Misteriosa Sociedad Benedict (2021)7.6",La Misteriosa Sociedad Benedict 2x06
+acestream://ffb3994b55ee25405593108acd50d7a2ff68529a
 #EXTINF:-1,group-title="Daniel Hechizado (2022)8.3"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjMyMmJlOWQtOWNkNS00NDg3LWIzZmMtZjQyYmMzM2EwMmY0XkEyXkFqcGdeQXVyOTE4NzcwNzI@._V1_FMjpg_UX1000_.jpg",group-title="Daniel Hechizado (2022)8.3",Daniel Hechizado 1x01
 acestream://c7dd55a66e1943f60dfd2fb1d740031fd62b8509
@@ -1164,6 +1168,8 @@ acestream://8a49df57e1f0fa35741e1a92634923488607f164
 acestream://0beaab873ca0363b846f6a6d4c2f14f12f4523aa
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 2x08
 acestream://80349a0c5bcc5839e41cd07253a09dfe7c079d60
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxMTUyYWYtMTA5OS00M2ExLWExYWMtNzkyNTBjMWJiMTM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",group-title="Somos los mejores una nueva era (2021)7.4",Somos los mejores una nueva era 2x09
+acestream://c3a037d01138afd5bdc6da86ef1bba7b59ac62a8
 #EXTINF:-1,group-title="She-Hulk Abogada Hulka (2022)5.5"
 #EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/JECi-UCsSBQgBIVG0rgsFEesul5eKFMSv-V4oxL1zSkAFsc8eanrSODUO_ufTE3aLWsdiHRhX5CCo2tFT3r2wmQHgzGJ0LyoBO2SeUM_eonQuCfrIbkqjsZWAFZA0qDSJUWU-hhbkVU=w2400",group-title="She-Hulk Abogada Hulka (2022)5.5",She-Hulk 1x01
 acestream://77c5bbf27ab096fdd32494400b64dd3f4ef8a703
