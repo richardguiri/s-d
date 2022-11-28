@@ -824,6 +824,8 @@ acestream://358a29c16d4301484c533c28843a7a58406bf598
 acestream://78664e5d2064943e2821bd1eb6f3df53f59749be
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_FMjpg_UX1000_.jpg",group-title="rick y morty(2013)9.2",rick y morty 6x07
 acestream://cf7f30eb848fa033c6525ab52e399ff2755ec631
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_FMjpg_UX1000_.jpg",group-title="rick y morty(2013)9.2",rick y morty 6x08
+acestream://b8a866191484b8991c3c654b9ff0e5b789594279
 #EXTINF:-1,group-title="Yo Soy Groot (2022)6.8"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I1YWRhMWEtZmJiNC00MzRkLWI5ZDgtZTJlNTQwY2YxNDk1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",group-title="Yo Soy Groot(2022)6.8",Yo Soy Groot 1x01
 acestream://c35c8861d22c347f3ce07489e313327ac606480d
