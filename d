@@ -9,6 +9,8 @@ acestream://f83702faa549aae3fdf53e6dc15f9ab31ad71d16
 acestream://690b645de421a8e76327166db304904ae7489668
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRmNDliZTktZjA0Ny00ZjgxLTlmZTgtMWUxMzBiMDk1OTU2XkEyXkFqcGdeQXVyMTU5OTc2NTk@._V1_FMjpg_UX1000_.jpg",group-title="Willow (2022)5.2",Willow 1x02
 acestream://54890acc397f1091f82cf64746c62f2d81bcc82f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRmNDliZTktZjA0Ny00ZjgxLTlmZTgtMWUxMzBiMDk1OTU2XkEyXkFqcGdeQXVyMTU5OTc2NTk@._V1_FMjpg_UX1000_.jpg",group-title="Willow (2022)5.2",Willow 1x03
+acestream://7e119650dd587f624453a9381aa2d38e81f56c04
 #EXTINF:-1,group-title="Star Trek Prodigy (2021)7.1"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYTA1OGFlN2EtZTI3My00N2U1LThmZGItNjI2N2RmYjRjNTEzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",group-title="Star Trek Prodigy (2021)7.1",Star Trek Prodigy 1x01
 acestream://2fbc960dbd9c106891931f60f1c6ee44da0dd7d7
@@ -43,6 +45,8 @@ acestream://1355fcb56e0a17ef58cc1c2db5309494c8dc4319
 acestream://c1b9e58c7fb3cfbc88a37499d4615bc19062319e
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM1YWM1NTUtYzdmYi00NjY2LWI2MGUtNmUzZGNkMDY0Mzk2XkEyXkFqcGdeQXVyMDk4OTMzOA@@._V1_FMjpg_UX1000_.jpg",Vaya Familia Claus 1x04
 acestream://57b04893100e7b5ad98fa9e7dd4300d68c7780b2
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM1YWM1NTUtYzdmYi00NjY2LWI2MGUtNmUzZGNkMDY0Mzk2XkEyXkFqcGdeQXVyMDk4OTMzOA@@._V1_FMjpg_UX1000_.jpg",Vaya Familia Claus 1x05
+acestream://7ddef04a5a6751dbf5b40b0ef8d7f4f30e01c6da
 #EXTINF:-1,group-title="Los Simpson(1989)8.7"
 #EXTINF:-1,tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EDFABC513AEE56D3732B28E3083DF9145A3BFEE1FE1FEB98A78A977CC2DBF014/scale?width=506&aspectRatio=2.00&format=jpeg",group-title="Los Simpson(1989)8.7",Los Simpson T2completa
 acestream://a984993217a57f787bc4774ac438fd9394b3e273
@@ -1004,6 +1008,8 @@ acestream://0cbb54c6ac5314c84229b770a9fb591bf3e09b62
 acestream://ffb3994b55ee25405593108acd50d7a2ff68529a
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFjY2U3ZjQtY2MzZC00MzExLWFhYjYtZWE3YmFmNGJhZTg4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",group-title="La Misteriosa Sociedad Benedict (2021)7.6",La Misteriosa Sociedad Benedict 2x07
 acestream://013608a21d84036b2fd8a100a8c5ea8d859094be
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFjY2U3ZjQtY2MzZC00MzExLWFhYjYtZWE3YmFmNGJhZTg4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",group-title="La Misteriosa Sociedad Benedict (2021)7.6",La Misteriosa Sociedad Benedict 2x08
+acestream://154cb16e304c5fc8ef8f963582ab14f2b989ac2a
 #EXTINF:-1,group-title="Daniel Hechizado (2022)8.3"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjMyMmJlOWQtOWNkNS00NDg3LWIzZmMtZjQyYmMzM2EwMmY0XkEyXkFqcGdeQXVyOTE4NzcwNzI@._V1_FMjpg_UX1000_.jpg",group-title="Daniel Hechizado (2022)8.3",Daniel Hechizado 1x01
 acestream://c7dd55a66e1943f60dfd2fb1d740031fd62b8509
