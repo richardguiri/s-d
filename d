@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:-1,group-title="Dragon Age Absolution (2022)6.6"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ4ZjAxZTUtZGVjZS00MzA2LWI5NGYtZWQ0NGY5NWNmMWQ3XkEyXkFqcGdeQXVyMzg1OTc1ODk@._V1_FMjpg_UX1000_.jpg",group-title="Dragon Age Absolution (2022)6.6",Dragon Age Absolution 1x01
+acestream://6f3ebb9c4a5c07348782c395b766c2db536341cf
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ4ZjAxZTUtZGVjZS00MzA2LWI5NGYtZWQ0NGY5NWNmMWQ3XkEyXkFqcGdeQXVyMzg1OTc1ODk@._V1_FMjpg_UX1000_.jpg",group-title="Dragon Age Absolution (2022)6.6",Dragon Age Absolution 1x02
+acestream://210b9d927c4fab02fde84e25148e2855692ee476
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ4ZjAxZTUtZGVjZS00MzA2LWI5NGYtZWQ0NGY5NWNmMWQ3XkEyXkFqcGdeQXVyMzg1OTc1ODk@._V1_FMjpg_UX1000_.jpg",group-title="Dragon Age Absolution (2022)6.6",Dragon Age Absolution 1x03
+acestream://588882f4e5966fffdf858e509990ebcae91ffc0d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ4ZjAxZTUtZGVjZS00MzA2LWI5NGYtZWQ0NGY5NWNmMWQ3XkEyXkFqcGdeQXVyMzg1OTc1ODk@._V1_FMjpg_UX1000_.jpg",group-title="Dragon Age Absolution (2022)6.6",Dragon Age Absolution 1x04
+acestream://1b338df540f4997005efd5dee14a00bcfe7568d2
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ4ZjAxZTUtZGVjZS00MzA2LWI5NGYtZWQ0NGY5NWNmMWQ3XkEyXkFqcGdeQXVyMzg1OTc1ODk@._V1_FMjpg_UX1000_.jpg",group-title="Dragon Age Absolution (2022)6.6",Dragon Age Absolution 1x05
+acestream://de9ae43b9a2fff1f176aa03e71ca423ebf691fc5
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ4ZjAxZTUtZGVjZS00MzA2LWI5NGYtZWQ0NGY5NWNmMWQ3XkEyXkFqcGdeQXVyMzg1OTc1ODk@._V1_FMjpg_UX1000_.jpg",group-title="Dragon Age Absolution (2022)6.6",Dragon Age Absolution 1x06
+acestream://d6a54e88692e309c18fc9142cc92e433f97c860d
 #EXTINF:-1,group-title="Housing Complex C "(2022)6.5"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMWNiZTYzMTItMjU4ZS00NjUzLThjNTgtZGEyNjBlNzg5M2QzXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",group-title="Housing Complex C "(2022)6.5",Housing Complex C 1x01
 acestream://795d9b0e1573e1c8992cf926e9dd284137c81841
@@ -386,6 +399,8 @@ acestream://663259112db87e8a5eef794c5dd336cf6acb1046
 acestream://583f52bdfe7fef052db0216f2ed984c628f84ca5
 #EXTINF:-1,tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EDFABC513AEE56D3732B28E3083DF9145A3BFEE1FE1FEB98A78A977CC2DBF014/scale?width=506&aspectRatio=2.00&format=jpeg",group-title="Los Simpson(1989)8.7",Los Simpson 34x04
 acestream://d5d0f42882536af892405d754bb8dc1c36e5b9aa
+#EXTINF:-1,tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EDFABC513AEE56D3732B28E3083DF9145A3BFEE1FE1FEB98A78A977CC2DBF014/scale?width=506&aspectRatio=2.00&format=jpeg",group-title="Los Simpson(1989)8.7",Los Simpson 34x05
+acestream://bc1c70081445a7089038b3c5f5b3ad1baf21a515
 #EXTINF:-1,group-title="Drifters (2016)7.6"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2YmU0YzEtYWE5OS00MjU4LThmZDQtZGNhNTE5Y2MwODg1XkEyXkFqcGdeQXVyMTUwMjI0MTI@._V1_.jpg",group-title="Drifters (2016)7.6",Drifters 1x01
 acestream://a66e530d3a0045b223a2e9bfff21a4d6ccbcad98
@@ -873,6 +888,8 @@ acestream://cf7f30eb848fa033c6525ab52e399ff2755ec631
 acestream://b8a866191484b8991c3c654b9ff0e5b789594279
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_FMjpg_UX1000_.jpg",group-title="rick y morty(2013)9.2",rick y morty 6x09
 acestream://b95055bed1192d4445c3e4fb7d412d5b21b2e5a1
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_FMjpg_UX1000_.jpg",group-title="rick y morty(2013)9.2",rick y morty 6x10
+acestream://6d55430eaa93416deddb6ee74dfaf6995de59d56
 #EXTINF:-1,group-title="Yo Soy Groot (2022)6.8"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I1YWRhMWEtZmJiNC00MzRkLWI5ZDgtZTJlNTQwY2YxNDk1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",group-title="Yo Soy Groot(2022)6.8",Yo Soy Groot 1x01
 acestream://c35c8861d22c347f3ce07489e313327ac606480d
@@ -1166,6 +1183,8 @@ acestream://ac6d93443d92d7931d9d6204a8f354c690e3259d
 acestream://ad4da39a04a97b55491bb32b748bcce7a6a3a645
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzEzZDVkZDUtY2ZkMS00NzcwLTkwMjEtZGYxZjU1Y2IxNGMwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Stargirl 3x12
 acestream://e1ae07a29baa2cc415ea4fa167c14a312490f2af
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzEzZDVkZDUtY2ZkMS00NzcwLTkwMjEtZGYxZjU1Y2IxNGMwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Stargirl 3x13
+acestream://e7d20a1de009eeb42644f94029d1ce1fa92b5b3d
 #EXTINF:-1,group-title="Ultrasecretos (2021)7.6"
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/Ff7pM5XXEA4PN4C?format=jpg&name=900x900",group-title="Ultrasecretos (2021)7.6",Ultrasecretos 1x01 al 05
 acestream://514fd00d821531ac66473c636206d51aa83b3216
