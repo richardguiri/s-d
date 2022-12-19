@@ -39,6 +39,10 @@ acestream://d6a54e88692e309c18fc9142cc92e433f97c860d
 acestream://795d9b0e1573e1c8992cf926e9dd284137c81841
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMWNiZTYzMTItMjU4ZS00NjUzLThjNTgtZGEyNjBlNzg5M2QzXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",group-title="Housing Complex C "(2022)6.5",Housing Complex C 1x02
 acestream://f83702faa549aae3fdf53e6dc15f9ab31ad71d16
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMWNiZTYzMTItMjU4ZS00NjUzLThjNTgtZGEyNjBlNzg5M2QzXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",group-title="Housing Complex C "(2022)6.5",Housing Complex C 1x03
+acestream://9ae27f8fded2a86567137ef6cfd5001231d9cd06
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMWNiZTYzMTItMjU4ZS00NjUzLThjNTgtZGEyNjBlNzg5M2QzXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",group-title="Housing Complex C "(2022)6.5",Housing Complex C 1x04
+acestream://6643e0a3e2dc3ca73d8c7e8552ad74b34dcca87e
 #EXTINF:-1,group-title="Willow (2022)5.2"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRmNDliZTktZjA0Ny00ZjgxLTlmZTgtMWUxMzBiMDk1OTU2XkEyXkFqcGdeQXVyMTU5OTc2NTk@._V1_FMjpg_UX1000_.jpg",group-title="Willow (2022)5.2",Willow 1x01
 acestream://690b645de421a8e76327166db304904ae7489668
@@ -427,6 +431,8 @@ acestream://583f52bdfe7fef052db0216f2ed984c628f84ca5
 acestream://d5d0f42882536af892405d754bb8dc1c36e5b9aa
 #EXTINF:-1,tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EDFABC513AEE56D3732B28E3083DF9145A3BFEE1FE1FEB98A78A977CC2DBF014/scale?width=506&aspectRatio=2.00&format=jpeg",group-title="Los Simpson(1989)8.7",Los Simpson 34x05
 acestream://bc1c70081445a7089038b3c5f5b3ad1baf21a515
+#EXTINF:-1,tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EDFABC513AEE56D3732B28E3083DF9145A3BFEE1FE1FEB98A78A977CC2DBF014/scale?width=506&aspectRatio=2.00&format=jpeg",group-title="Los Simpson(1989)8.7",Los Simpson 34x06
+acestream://48bfb41a31bfa1820b73b784776228693998e8be
 #EXTINF:-1,group-title="Drifters (2016)7.6"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2YmU0YzEtYWE5OS00MjU4LThmZDQtZGNhNTE5Y2MwODg1XkEyXkFqcGdeQXVyMTUwMjI0MTI@._V1_.jpg",group-title="Drifters (2016)7.6",Drifters 1x01
 acestream://a66e530d3a0045b223a2e9bfff21a4d6ccbcad98
