@@ -1918,3 +1918,122 @@ acestream://7c43749860094b7331c7875d8b17e02c4eea6b5a
 acestream://fab887e53661e042f4171d86c0cadc7b6d10f9ef
 #EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 14x20
 acestream://28c9c097122f1b458b31c44a6bbd801098a8fec5
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 15x01 al 06
+acestream://d0f38961f74d0ca05670e13572119dcff5bf50a6
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 15x07
+acestream://9e02644c5918daa0bb738fcb4f24ed82e273f014
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 15x08 al 09
+acestream://e63ff0e923bdbca93c9f480b97f9eb3205153609
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 15x10
+acestream://7bcd2592c07a7a770764864a17525d5101d4814c
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 15x11
+acestream://035310c4d0b602d3828a905647f62aa2d9cc9419
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 15x12
+acestream://cb699d235c73f8d314946f79639bd1f34ea5828e
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 15x13
+acestream://3a2cf675a7f578657b4b186eb1b6731cf09fc4bb
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 15x14
+acestream://6b3d5ffb2a46b036aa9bdad25a0d92639dd1f3e2
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 15x15
+acestream://ab5c45970798be501941e8156b4c4cc6931eed52
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 16x01
+acestream://ca2c204d15bc0599c6edcfb9ee56c78537c40fc7
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 16x02
+acestream://e2accf9dc703bcdce679bcb537ffbc365034a522
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 16x03
+acestream://29e364a806d88587e8feefeee289ab2f1692de89
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 16x04
+acestream://1326572c1f9eae98e40199b7f417dd8bc54d5d93
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 16x05
+acestream://43c849a40f81919b368bce9fe1c97c1bd3b8e117
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 16x06
+acestream://f45f8d88f03826ce97db7b1ae39ec8e32f5a03c2
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 16x07
+acestream://00930a55e9833fda195e0988cc2d647ac6c40849
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 16x08
+acestream://d23ccd16885b99252057d4a531a5045669f78d8d
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 16x09
+acestream://878a7299e70287da2e986c1973bf35475ee7505c
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 16x10
+acestream://f99bbce2819bcc26e3c2d3963ef15164ab0ff581
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 16x11
+acestream://9c2ba1adc5c4b9f6c6281fc1f9a4c31a9c7cead1
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 16x12
+acestream://943b5fcd1866a0c71dd481aee682eb587aa39d08
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 16x13
+acestream://e82933ee01d48171d7276e7792dd5e216ae3fc7d
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 20x01
+acestream://4c56d9ed67a2c2cd112a7f2ae47c9c39048addb5
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 20x02
+acestream://f621595a6c1e1ec40c56b2ad99ddd395e1fd5016
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 20x03
+acestream://e42bf9c737c3bbf738de001c77456572a7250f3b
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 20x04
+acestream://c1a3e86f19d403715fc815711bb8bb3120ed69c3
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 20x05
+acestream://217ee89ec2a4194c4b072b9407cefeb802e1b89e
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 20x06
+acestream://a35f72c3812325484e62d272d3d84597e359587a
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 20x09
+acestream://44e88099f392ee7468bb7025da161caf309210a1
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 20x10
+acestream://b2f895fd5fda810c63e9a9561a1fa72850d29d2c
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 20x11
+acestream://a90fd611b034831d356408df4f71e9e99fb77f23
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 20x12
+acestream://2bf96842003960795ae321d6ae6d986c2ef70146
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 20x13
+acestream://a32064ebb348f6f800780bf5ee7e570ed737fc38
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 20x14
+acestream://04f66bba8ef106185b727c98fbaf3b16b129cdcd
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 20x15
+acestream://d1f1cbfaf02d9aab0a5c131447fd57fa3879ec69
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 20x16
+acestream://1076c280362a0d3d7e9e000beaa0c9094e646610
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 20x17
+acestream://e6884e100adadfbe28e540ae0bde96a3bbf583f3
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 20x18
+acestream://80c72f70597fba2aa8e4a6c8c5841c37cc870394
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 20x19
+acestream://afa88c0afbf8a2350a363302c6a0af072182f375
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 20x20
+acestream://8dc63ed66966a5558d4655bd804af6ff8c30aa73
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 21x01
+acestream://d2291ed6378dbb5eac92915cdb2260501e6b24f4
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 21x02
+acestream://82373b228be1d90e72f36f07da816f3c8ea53465
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 21x03
+acestream://72925491222801308cb61fb1d446ed22d6dbfcf3
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 21x04
+acestream://3e59ddafa8ce41daf4a5233ff2480f89b5379ed4
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 21x05
+acestream://796455a977d3d3ed3913f9f6a21cb0c7ae3d230b
+#EXTINF:-1,tvg-logo="https://flxt.tmsimg.com/assets/p15685125_b_v13_ae.jpg",group-title="Padre De Familia (1999)8.2",Padre De Familia 21x06
+acestream://258d9e78456246770ac7980a3c0e75fa0345c172
+#EXTINF:-1,group-title="Paradise PD (2018)6.8"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjgxNTUxMF5BMl5BanBnXkFtZTgwMzM4MjMwNjM@._V1_.jpg",group-title="Paradise PD (2018)6.8",Paradise PD T1completa
+acestream://e2276d7c1e2c6ff7dcb15513413af40017cb9545
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjgxNTUxMF5BMl5BanBnXkFtZTgwMzM4MjMwNjM@._V1_.jpg",group-title="Paradise PD (2018)6.8",Paradise PD T2completa
+acestream://e9b00539cf923f0d88f63d573c61b33841f9f800
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjgxNTUxMF5BMl5BanBnXkFtZTgwMzM4MjMwNjM@._V1_.jpg",group-title="Paradise PD (2018)6.8",Paradise PD T3completa
+acestream://b41db40504546a4be093ca515ce6fc82b677489f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjgxNTUxMF5BMl5BanBnXkFtZTgwMzM4MjMwNjM@._V1_.jpg",group-title="Paradise PD (2018)6.8",Paradise PD 4x01
+acestream://97067546f01d8c9e3cc38a1e41d82e27a3b01263
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjgxNTUxMF5BMl5BanBnXkFtZTgwMzM4MjMwNjM@._V1_.jpg",group-title="Paradise PD (2018)6.8",Paradise PD 4x02
+acestream://6ce758e2f461de288bf941dc6b841dc6ced430e4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjgxNTUxMF5BMl5BanBnXkFtZTgwMzM4MjMwNjM@._V1_.jpg",group-title="Paradise PD (2018)6.8",Paradise PD 4x03
+acestream://a0c5744786fc46131d797df03bd9a1c28c615ce4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjgxNTUxMF5BMl5BanBnXkFtZTgwMzM4MjMwNjM@._V1_.jpg",group-title="Paradise PD (2018)6.8",Paradise PD 4x04
+acestream://ef878060b6696401c54232d4306dae09c343346f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjgxNTUxMF5BMl5BanBnXkFtZTgwMzM4MjMwNjM@._V1_.jpg",group-title="Paradise PD (2018)6.8",Paradise PD 4x05
+acestream://864e986ca6ff88ae73dd5e2dc17edda85bf0db9f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjgxNTUxMF5BMl5BanBnXkFtZTgwMzM4MjMwNjM@._V1_.jpg",group-title="Paradise PD (2018)6.8",Paradise PD 4x06
+acestream://f003a1dbf78cab9c07b83c9dfbbe8dc09e61eee7
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjgxNTUxMF5BMl5BanBnXkFtZTgwMzM4MjMwNjM@._V1_.jpg",group-title="Paradise PD (2018)6.8",Paradise PD 4x07
+acestream://6301c3c773934d4ce0e23d128a929aaefd93929e
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjgxNTUxMF5BMl5BanBnXkFtZTgwMzM4MjMwNjM@._V1_.jpg",group-title="Paradise PD (2018)6.8",Paradise PD 4x08
+acestream://240ad196cd1b446b39a335e45696e5a62f86bf44
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjgxNTUxMF5BMl5BanBnXkFtZTgwMzM4MjMwNjM@._V1_.jpg",group-title="Paradise PD (2018)6.8",Paradise PD 4x09
+acestream://07f2e8495b7a153364298ac20070ad5883f89d05
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjgxNTUxMF5BMl5BanBnXkFtZTgwMzM4MjMwNjM@._V1_.jpg",group-title="Paradise PD (2018)6.8",Paradise PD 4x10
+acestream://4fb414659a04e86ad9b9891d11f3bb800ad84c49
