@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-1,group-title="La Busqueda mas alla de la Historia (2022)4.6"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOWZlZDVmMWItZDcxNi00MGJmLTk0MzktOGZkNTNkMzU3OWQzXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",group-title="La Busqueda mas alla de la Historia (2022)4.6",La Busqueda mas alla de la Historia 1x01
+acestream://e4b4ee67c5cfb337bc86d9b09fb1fd0fb6aa878f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOWZlZDVmMWItZDcxNi00MGJmLTk0MzktOGZkNTNkMzU3OWQzXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",group-title="La Busqueda mas alla de la Historia (2022)4.6",La Busqueda mas alla de la Historia 1x02
+acestream://96f1081d51dbb13040b236772cf08bf3a9fb8e1a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOWZlZDVmMWItZDcxNi00MGJmLTk0MzktOGZkNTNkMzU3OWQzXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",group-title="La Busqueda mas alla de la Historia (2022)4.6",La Busqueda mas alla de la Historia 1x03
+acestream://25646fac95dc8f8ce2fdd21d46eb403668c8eb51
 #EXTINF:-1,group-title="Dunyayla Benim Aramda (2022)5.5"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY1NzMyNTItMjFlNC00NmQ4LThlNjktODI3OTJhZjE5MDQxXkEyXkFqcGdeQXVyMTU2Mjg2NjE2._V1_.jpg",group-title="Dunyayla Benim Aramda (2022)5.5",Dunyayla Benim Aramda 1x01
 acestream://25271104177cfc8456308396b6a4ca0e8843b69d
@@ -52,6 +59,8 @@ acestream://54890acc397f1091f82cf64746c62f2d81bcc82f
 acestream://7e119650dd587f624453a9381aa2d38e81f56c04
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRmNDliZTktZjA0Ny00ZjgxLTlmZTgtMWUxMzBiMDk1OTU2XkEyXkFqcGdeQXVyMTU5OTc2NTk@._V1_FMjpg_UX1000_.jpg",group-title="Willow (2022)5.2",Willow 1x04
 acestream://63117064b3e410414b7262bc7889572a3f619db2
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRmNDliZTktZjA0Ny00ZjgxLTlmZTgtMWUxMzBiMDk1OTU2XkEyXkFqcGdeQXVyMTU5OTc2NTk@._V1_FMjpg_UX1000_.jpg",group-title="Willow (2022)5.2",Willow 1x05
+acestream://ad42b1c126c39ce0c89592a23acdc05fb816fd07
 #EXTINF:-1,group-title="Star Trek Prodigy (2021)7.1"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYTA1OGFlN2EtZTI3My00N2U1LThmZGItNjI2N2RmYjRjNTEzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",group-title="Star Trek Prodigy (2021)7.1",Star Trek Prodigy 1x01
 acestream://2fbc960dbd9c106891931f60f1c6ee44da0dd7d7
@@ -433,6 +442,8 @@ acestream://d5d0f42882536af892405d754bb8dc1c36e5b9aa
 acestream://bc1c70081445a7089038b3c5f5b3ad1baf21a515
 #EXTINF:-1,tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EDFABC513AEE56D3732B28E3083DF9145A3BFEE1FE1FEB98A78A977CC2DBF014/scale?width=506&aspectRatio=2.00&format=jpeg",group-title="Los Simpson(1989)8.7",Los Simpson 34x06
 acestream://48bfb41a31bfa1820b73b784776228693998e8be
+#EXTINF:-1,tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EDFABC513AEE56D3732B28E3083DF9145A3BFEE1FE1FEB98A78A977CC2DBF014/scale?width=506&aspectRatio=2.00&format=jpeg",group-title="Los Simpson(1989)8.7",Los Simpson 34x07
+acestream://c364d5db8666e5e5282bd92a3af004084255aa5a
 #EXTINF:-1,group-title="Drifters (2016)7.6"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2YmU0YzEtYWE5OS00MjU4LThmZDQtZGNhNTE5Y2MwODg1XkEyXkFqcGdeQXVyMTUwMjI0MTI@._V1_.jpg",group-title="Drifters (2016)7.6",Drifters 1x01
 acestream://a66e530d3a0045b223a2e9bfff21a4d6ccbcad98
@@ -1100,6 +1111,20 @@ acestream://fb7f395c642eae61f79403c27e8aaae385518b19
 acestream://740f3bdb93e7e2596c48d720dba85f2731087f75
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZhYjdjZTEtYzlkMC00M2I3LTliYjItNjVlZmQ5MGEyZjRlXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",group-title="Little Demon (2022)7.0",Little Demon 1x03
 acestream://295a84a7b32a2c9cdd8146c6bb05fefff94c6664
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZhYjdjZTEtYzlkMC00M2I3LTliYjItNjVlZmQ5MGEyZjRlXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",group-title="Little Demon (2022)7.0",Little Demon 1x04
+acestream://555def05ba4a040579101cafa484ec5c2a919124
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZhYjdjZTEtYzlkMC00M2I3LTliYjItNjVlZmQ5MGEyZjRlXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",group-title="Little Demon (2022)7.0",Little Demon 1x05
+acestream://586fa0f062a0bb4bd8f5e4b8ad8ce720dbebb1b7
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZhYjdjZTEtYzlkMC00M2I3LTliYjItNjVlZmQ5MGEyZjRlXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",group-title="Little Demon (2022)7.0",Little Demon 1x06
+acestream://edac189e2ee257aabdca5507e7f6669e37f6df45
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZhYjdjZTEtYzlkMC00M2I3LTliYjItNjVlZmQ5MGEyZjRlXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",group-title="Little Demon (2022)7.0",Little Demon 1x07
+acestream://a9627d58441841f4516bc6fb9191515f64b7a329
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZhYjdjZTEtYzlkMC00M2I3LTliYjItNjVlZmQ5MGEyZjRlXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",group-title="Little Demon (2022)7.0",Little Demon 1x08
+acestream://dd33d56279fa6c5c4430aad04177ae65f3b1c655
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZhYjdjZTEtYzlkMC00M2I3LTliYjItNjVlZmQ5MGEyZjRlXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",group-title="Little Demon (2022)7.0",Little Demon 1x09
+acestream://825764369118e101cd6a6976a8813f425184a20c
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZhYjdjZTEtYzlkMC00M2I3LTliYjItNjVlZmQ5MGEyZjRlXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",group-title="Little Demon (2022)7.0",Little Demon 1x10
+acestream://9368d45b9acbeca059cbc6f333e70d1e21f2c74e
 #EXTINF:-1,group-title="Star Wars Las Cronicas Jedi (2022)8.6"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODMwYmE1ZGItYWVjNi00ZWUxLWFjYjQtNjdjN2MzNzY0NmRlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",group-title="Star Wars Las Cronicas Jedi (2022)8.6",Star Wars Las Cronicas Jedi 1x01
 acestream://3f229ba54fd46ffa87c4733d1a5f7de41896dbf3
