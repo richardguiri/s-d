@@ -6,6 +6,8 @@ acestream://e4b4ee67c5cfb337bc86d9b09fb1fd0fb6aa878f
 acestream://96f1081d51dbb13040b236772cf08bf3a9fb8e1a
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOWZlZDVmMWItZDcxNi00MGJmLTk0MzktOGZkNTNkMzU3OWQzXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",group-title="La Busqueda mas alla de la Historia (2022)4.6",La Busqueda mas alla de la Historia 1x03
 acestream://25646fac95dc8f8ce2fdd21d46eb403668c8eb51
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOWZlZDVmMWItZDcxNi00MGJmLTk0MzktOGZkNTNkMzU3OWQzXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",group-title="La Busqueda mas alla de la Historia (2022)4.6",La Busqueda mas alla de la Historia 1x04
+acestream://fe8f3e510e88f4e6a5b4bee92bd7e34a3c09b677
 #EXTINF:-1,group-title="Dunyayla Benim Aramda (2022)5.5"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY1NzMyNTItMjFlNC00NmQ4LThlNjktODI3OTJhZjE5MDQxXkEyXkFqcGdeQXVyMTU2Mjg2NjE2._V1_.jpg",group-title="Dunyayla Benim Aramda (2022)5.5",Dunyayla Benim Aramda 1x01
 acestream://25271104177cfc8456308396b6a4ca0e8843b69d
@@ -61,6 +63,8 @@ acestream://7e119650dd587f624453a9381aa2d38e81f56c04
 acestream://63117064b3e410414b7262bc7889572a3f619db2
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRmNDliZTktZjA0Ny00ZjgxLTlmZTgtMWUxMzBiMDk1OTU2XkEyXkFqcGdeQXVyMTU5OTc2NTk@._V1_FMjpg_UX1000_.jpg",group-title="Willow (2022)5.2",Willow 1x05
 acestream://ad42b1c126c39ce0c89592a23acdc05fb816fd07
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRmNDliZTktZjA0Ny00ZjgxLTlmZTgtMWUxMzBiMDk1OTU2XkEyXkFqcGdeQXVyMTU5OTc2NTk@._V1_FMjpg_UX1000_.jpg",group-title="Willow (2022)5.2",Willow 1x06
+acestream://7292cbcbb837c830239ba0c891bb36fdec64871b
 #EXTINF:-1,group-title="Star Trek Prodigy (2021)7.1"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYTA1OGFlN2EtZTI3My00N2U1LThmZGItNjI2N2RmYjRjNTEzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",group-title="Star Trek Prodigy (2021)7.1",Star Trek Prodigy 1x01
 acestream://2fbc960dbd9c106891931f60f1c6ee44da0dd7d7
